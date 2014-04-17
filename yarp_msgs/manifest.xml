@@ -1,0 +1,16 @@
+<package>
+  <description brief="icub_msgs">
+
+     icub_msgs
+
+  </description>
+  <author>Filipe Veiga</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/icub_msgs</url>
+
+  <depend package="std_msgs" />
+
+</package>
+
+

@@ -1,0 +1,8 @@
+<launch>
+  <!--<rosparam file="$(find icub_controllers)/config/omnirob_arm_controller.yaml" command="load" />-->
+  <node pkg="icub_controller_interface" type="joint_trajectory_action" ns="right_arm_controller" name="follow_joint_trajectory" output="screen">
+ 		<remap from="/feedback" to="follow_joint_trajectory/feedback"/>
+ 		<remap from="/status" to="follow_joint_trajectory/status"/>
+ 		<remap from="/joints_set" to="joint_states"/>
+  </node>
+</launch>

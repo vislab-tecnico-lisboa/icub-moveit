@@ -1,0 +1,19 @@
+<package>
+  <description brief="icub_ros">
+
+     icub_ros
+
+  </description>
+  <author>Rui Figueiredo</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/icub_ros</url>
+  <depend package="roscpp"/>
+  <depend package="yarp_msgs"/>
+  <depend package="sensor_msgs"/>
+  <export>
+	<cpp cflags="-I${prefix}/include" />
+  </export>
+</package>
+
+

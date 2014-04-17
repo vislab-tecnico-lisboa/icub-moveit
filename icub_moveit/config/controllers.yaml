@@ -1,0 +1,19 @@
+controller_list:
+  - name: right_arm_controller
+    ns: follow_joint_trajectory
+    type: FollowJointTrajectory
+    default: true
+    joints:
+      - raj1
+      - raj2
+      - raj3
+      - raj4
+      - raj5
+      - raj6
+      - right_wrist_yaw
+
+
+
+
+
+

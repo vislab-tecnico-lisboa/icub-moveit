@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/flip/rosws/icub_description/urdf/iCub.urdf
+  SRDF:
+    relative_path: config/ICub.srdf
+  CONFIG:
+    generated_timestamp: 1374161218

@@ -1,0 +1,23 @@
+<package>
+  <description brief="icub_controllers">
+
+     icub_controllers
+
+  </description>
+  <author>Rui Figueiredo and Filipe Veiga</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/icub_controllers</url>
+
+  <depend package="actionlib_msgs" />
+  <depend package="actionlib" />
+  <depend package="control_msgs" />
+  <depend package="robot_mechanism_controllers" />
+  <depend package="yarp_msgs" />
+  <!--<export>
+	<cpp cflags="-I${prefix}/include" />
+	<controller_interface plugin="${prefix}/controller_plugins.xml" />
+  </export>-->
+</package>
+
+

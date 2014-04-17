@@ -1,0 +1,26 @@
+<launch>
+
+  <include file="$(find icub_moveit)/launch/planning_context.launch">
+    <arg name="load_robot_description" value="true"/>
+  </include>
+
+  
+
+  <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher">
+    <param name="/use_gui" value="false"/>
+    <rosparam param="source_list">[right_arm/joint_states,left_arm_joints_states]</rosparam>
+  </node>
+  
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" respawn="true" output="screen" />
+
+  <include file="$(find icub_moveit)/launch/move_group.launch">
+    <arg name="allow_trajectory_execution" value="true"/>
+  </include>
+
+  <include file="$(find icub_moveit)/launch/moveit_rviz.launch">
+    <arg name="config" value="true"/>
+  </include>
+
+  <include file="$(find icub_moveit)/launch/default_warehouse_db.launch" />
+
+</launch>

@@ -1,0 +1,8 @@
+<launch>
+
+  <node pkg="icub_ros" type="icub_ros" ns="right_arm" name="icub_ros" output="screen">
+  	<rosparam file="$(find icub_moveit)/config/controllers.yaml" command="load" />
+ 	<remap from="yarp_joint_values" to="yarp_joint_values"/>
+ 	<remap from="ros_joint_state" to="joint_states"/>
+  </node>
+</launch>
