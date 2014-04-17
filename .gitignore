@@ -1,0 +1,15 @@
+icub_controller_interface/bin
+icub_controller_interface/build
+icub_controller_interface/lib
+icub_description/bin
+icub_description/build
+icub_description/lib
+icub_moveit/default_warehouse_mongo_db/journal
+icub_ros/bin
+icub_ros/build
+icub_ros/lib
+yarp_msgs/bin
+yarp_msgs/build
+yarp_msgs/lib
+yarp_msgs/msg_gen
+yarp_msgs/src
