@@ -17,9 +17,9 @@
     <arg name="allow_trajectory_execution" value="true"/>
   </include>
 
-  <!--<include file="$(find icub_moveit)/launch/moveit_rviz.launch">-->
-    <!--<arg name="config" value="true"/>-->
-  <!--</include>-->
+  <include file="$(find icub_moveit)/launch/moveit_rviz.launch">
+    <arg name="config" value="true"/>
+  </include>
 
   <include file="$(find icub_moveit)/launch/default_warehouse_db.launch" />
 
