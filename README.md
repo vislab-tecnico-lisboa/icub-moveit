@@ -53,11 +53,11 @@ At this point everything is set to successfuly run the modules. Although, you mi
 
     sudo apt-get install ros-hydro-moveit-*
 
-Now, everything should run smoothly. Open a terminal:
+Now, everything should work smoothly. Open a terminal, and run:
 
     roscore
 
-Open another terminal:
+Open another terminal, and run:
 
     roslaunch icub_moveit demo.launch
 
