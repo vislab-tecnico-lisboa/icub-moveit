@@ -1,6 +1,6 @@
 # icub-moveit
 
-URDF iCub model ready for moveit! in ROS Hydro
+URDF iCub model ready for MoveIt! in ROS Hydro
 
 ## Environment
 
