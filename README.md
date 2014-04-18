@@ -66,4 +66,4 @@ If you want, you can run the model without a graphical interface by running inst
     roslaunch icub_moveit functional.launch
 
 You can now plan trajectories for the iCub parts, set a start state, a goal state and hit plan.
-Note that you will not be able to execute the trajectory since the main goal of this package is to be able to plan. You can connect this planner to a real iCub (or even a simulator) using this other repository which is responsible to connect the YARP iCub robot to the planner functionality implemented in ROS.
+Note that you will not be able to execute the trajectory since the main goal of this package is to be able to plan. You can connect this planner to the iCub simulator (or even the real robot) using this other repository which is responsible to connect the YARP iCub robot to this planning functionality implemented in ROS.
