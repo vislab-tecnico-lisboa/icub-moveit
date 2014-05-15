@@ -27,7 +27,7 @@ At the end of the file, add the following line:
     
 Save the file and run:
 
-    source ~/.bashrc
+    source .bashrc
 
 ## Compilation
 
