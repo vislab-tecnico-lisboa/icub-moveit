@@ -44,8 +44,8 @@ Before running the modules for the first time complete the following instruction
     rosmake yarp_msgs bond_core
     rosmake icub_ros
     rosmake icub_description
-    rosmake icub_moveit
     rosmake icub_controller_interface
+    rosmake icub_moveit
 
 ## Running
 
