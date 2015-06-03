@@ -1,7 +1,7 @@
 moveit_setup_assistant_config:
   URDF:
-    package: ""
-    relative_path: /home/flip/rosws/icub_description/urdf/iCub.urdf
+    package: "icub_description"
+    relative_path: urdf/iCub.urdf
   SRDF:
     relative_path: config/ICub.srdf
   CONFIG:
