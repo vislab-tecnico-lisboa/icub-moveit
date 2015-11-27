@@ -1,0 +1,899 @@
+Panels:
+  - Class: rviz/Displays
+    Help Height: 78
+    Name: Displays
+    Property Tree Widget:
+      Expanded:
+        - /TF1
+        - /TF1/Frames1
+      Splitter Ratio: 0.5
+    Tree Height: 463
+  - Class: rviz/Selection
+    Name: Selection
+  - Class: rviz/Tool Properties
+    Expanded:
+      - /2D Pose Estimate1
+      - /2D Nav Goal1
+      - /Publish Point1
+    Name: Tool Properties
+    Splitter Ratio: 0.588679
+  - Class: rviz/Views
+    Expanded:
+      - /Current View1
+    Name: Views
+    Splitter Ratio: 0.5
+  - Class: rviz/Time
+    Experimental: false
+    Name: Time
+    SyncMode: 0
+    SyncSource: ""
+Visualization Manager:
+  Class: ""
+  Displays:
+    - Alpha: 1
+      Class: rviz/RobotModel
+      Collision Enabled: false
+      Enabled: true
+      Links:
+        All Links Enabled: true
+        Expand Joint Details: false
+        Expand Link Details: false
+        Expand Tree: false
+        Link Tree Style: Links in Alphabetic Order
+        base_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        il0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        il1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        il2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        il3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        indexbase:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        l0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        l1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        l2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        l3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        l4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        l5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        l6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        l7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        l7s:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        l8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        l8s:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        la0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        la1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        la2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        la3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        la4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        la5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        la6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lail0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lail1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lail2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lail3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        left_palm:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lil0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lil1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lil2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lil3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lindexbase:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        littlebase:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ll0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ll1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ll2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ll3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ll4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ll5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ll6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        llil0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        llil1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        llil2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        llil3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        llittlebase:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lmiddlebase:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lml0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lml1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lml2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lml3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lril0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lril1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lril2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lril3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lringbase:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        lthumbbase:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        ltl0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ltl1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ltl2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ltl3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ltl4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        middlebase:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ml0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ml1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ml2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ml3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ra0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ra1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ra2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ra3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ra4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ra5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ra6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        right_palm:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ril0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ril1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ril2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ril3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ringbase:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        rl0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        rl1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        rl2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        rl3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        rl4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        rl5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        rl6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        thumbbase:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        tl0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        tl1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        tl2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        tl3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        tl4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+      Name: RobotModel
+      Robot Description: robot_description
+      TF Prefix: ""
+      Update Interval: 0
+      Value: true
+      Visual Enabled: true
+    - Alpha: 0.5
+      Cell Size: 1
+      Class: rviz/Grid
+      Color: 160; 160; 164
+      Enabled: true
+      Line Style:
+        Line Width: 0.03
+        Value: Lines
+      Name: Grid
+      Normal Cell Count: 0
+      Offset:
+        X: 0
+        Y: 0
+        Z: 0
+      Plane: XY
+      Plane Cell Count: 10
+      Reference Frame: <Fixed Frame>
+      Value: true
+    - Class: rviz/TF
+      Enabled: true
+      Frame Timeout: 15
+      Frames:
+        All Enabled: false
+        base_link:
+          Value: false
+        il0:
+          Value: false
+        il1:
+          Value: false
+        il2:
+          Value: false
+        il3:
+          Value: false
+        indexbase:
+          Value: false
+        l0:
+          Value: false
+        l1:
+          Value: false
+        l2:
+          Value: false
+        l3:
+          Value: false
+        l4:
+          Value: false
+        l5:
+          Value: false
+        l6:
+          Value: false
+        l7:
+          Value: false
+        l7s:
+          Value: false
+        l8:
+          Value: true
+        l8s:
+          Value: true
+        la0:
+          Value: false
+        la1:
+          Value: false
+        la2:
+          Value: false
+        la3:
+          Value: false
+        la4:
+          Value: false
+        la5:
+          Value: false
+        la6:
+          Value: false
+        lail0:
+          Value: false
+        lail1:
+          Value: false
+        lail2:
+          Value: false
+        lail3:
+          Value: false
+        left_palm:
+          Value: false
+        lil0:
+          Value: false
+        lil1:
+          Value: false
+        lil2:
+          Value: false
+        lil3:
+          Value: false
+        lindexbase:
+          Value: false
+        littlebase:
+          Value: false
+        ll0:
+          Value: false
+        ll1:
+          Value: false
+        ll2:
+          Value: false
+        ll3:
+          Value: false
+        ll4:
+          Value: false
+        ll5:
+          Value: false
+        ll6:
+          Value: false
+        llil0:
+          Value: false
+        llil1:
+          Value: false
+        llil2:
+          Value: false
+        llil3:
+          Value: false
+        llittlebase:
+          Value: false
+        lmiddlebase:
+          Value: false
+        lml0:
+          Value: false
+        lml1:
+          Value: false
+        lml2:
+          Value: false
+        lml3:
+          Value: false
+        lril0:
+          Value: false
+        lril1:
+          Value: false
+        lril2:
+          Value: false
+        lril3:
+          Value: false
+        lringbase:
+          Value: false
+        lthumbbase:
+          Value: false
+        ltl0:
+          Value: false
+        ltl1:
+          Value: false
+        ltl2:
+          Value: false
+        ltl3:
+          Value: false
+        ltl4:
+          Value: false
+        middlebase:
+          Value: false
+        ml0:
+          Value: false
+        ml1:
+          Value: false
+        ml2:
+          Value: false
+        ml3:
+          Value: false
+        ra0:
+          Value: false
+        ra1:
+          Value: false
+        ra2:
+          Value: false
+        ra3:
+          Value: false
+        ra4:
+          Value: false
+        ra5:
+          Value: false
+        ra6:
+          Value: false
+        right_palm:
+          Value: false
+        ril0:
+          Value: false
+        ril1:
+          Value: false
+        ril2:
+          Value: false
+        ril3:
+          Value: false
+        ringbase:
+          Value: false
+        rl0:
+          Value: false
+        rl1:
+          Value: false
+        rl2:
+          Value: false
+        rl3:
+          Value: false
+        rl4:
+          Value: false
+        rl5:
+          Value: false
+        rl6:
+          Value: false
+        thumbbase:
+          Value: false
+        tl0:
+          Value: false
+        tl1:
+          Value: false
+        tl2:
+          Value: false
+        tl3:
+          Value: false
+        tl4:
+          Value: false
+      Marker Scale: 0.5
+      Name: TF
+      Show Arrows: true
+      Show Axes: true
+      Show Names: false
+      Tree:
+        base_link:
+          l0:
+            l1:
+              l2:
+                l3:
+                  l4:
+                    l5:
+                      l6:
+                        l7:
+                          l8:
+                            {}
+                        l7s:
+                          l8s:
+                            {}
+                    la0:
+                      la1:
+                        la2:
+                          la3:
+                            la4:
+                              la5:
+                                la6:
+                                  left_palm:
+                                    lindexbase:
+                                      lail0:
+                                        lail1:
+                                          lail2:
+                                            lail3:
+                                              {}
+                                    llittlebase:
+                                      llil0:
+                                        llil1:
+                                          llil2:
+                                            llil3:
+                                              {}
+                                    lmiddlebase:
+                                      lml0:
+                                        lml1:
+                                          lml2:
+                                            lml3:
+                                              {}
+                                    lringbase:
+                                      lril0:
+                                        lril1:
+                                          lril2:
+                                            lril3:
+                                              {}
+                                    lthumbbase:
+                                      ltl0:
+                                        ltl1:
+                                          ltl2:
+                                            ltl3:
+                                              ltl4:
+                                                {}
+                    ra0:
+                      ra1:
+                        ra2:
+                          ra3:
+                            ra4:
+                              ra5:
+                                ra6:
+                                  right_palm:
+                                    indexbase:
+                                      il0:
+                                        il1:
+                                          il2:
+                                            il3:
+                                              {}
+                                    littlebase:
+                                      lil0:
+                                        lil1:
+                                          lil2:
+                                            lil3:
+                                              {}
+                                    middlebase:
+                                      ml0:
+                                        ml1:
+                                          ml2:
+                                            ml3:
+                                              {}
+                                    ringbase:
+                                      ril0:
+                                        ril1:
+                                          ril2:
+                                            ril3:
+                                              {}
+                                    thumbbase:
+                                      tl0:
+                                        tl1:
+                                          tl2:
+                                            tl3:
+                                              tl4:
+                                                {}
+          ll0:
+            ll1:
+              ll2:
+                ll3:
+                  ll4:
+                    ll5:
+                      ll6:
+                        {}
+          rl0:
+            rl1:
+              rl2:
+                rl3:
+                  rl4:
+                    rl5:
+                      rl6:
+                        {}
+      Update Interval: 0
+      Value: true
+  Enabled: true
+  Global Options:
+    Background Color: 48; 48; 48
+    Fixed Frame: base_link
+    Frame Rate: 30
+  Name: root
+  Tools:
+    - Class: rviz/Interact
+      Hide Inactive Objects: true
+    - Class: rviz/MoveCamera
+    - Class: rviz/Select
+    - Class: rviz/FocusCamera
+    - Class: rviz/Measure
+    - Class: rviz/SetInitialPose
+      Topic: /initialpose
+    - Class: rviz/SetGoal
+      Topic: /move_base_simple/goal
+    - Class: rviz/PublishPoint
+      Single click: true
+      Topic: /clicked_point
+  Value: true
+  Views:
+    Current:
+      Class: rviz/Orbit
+      Distance: 0.683459
+      Enable Stereo Rendering:
+        Stereo Eye Separation: 0.06
+        Stereo Focal Distance: 1
+        Swap Stereo Eyes: false
+        Value: false
+      Focal Point:
+        X: -0.162056
+        Y: -0.152455
+        Z: 0.188393
+      Name: Current View
+      Near Clip Distance: 0.01
+      Pitch: 0.496528
+      Target Frame: <Fixed Frame>
+      Value: Orbit (rviz)
+      Yaw: 3.99895
+    Saved: ~
+Window Geometry:
+  Displays:
+    collapsed: false
+  Height: 744
+  Hide Left Dock: false
+  Hide Right Dock: false
+  QMainWindow State: 000000ff00000000fd00000004000000000000013c0000025efc020000000afb0000001200530065006c0065006300740069006f006e00000001e10000009b0000006400fffffffb0000001e0054006f006f006c002000500072006f007000650072007400690065007302000001ed000001df00000185000000a3fb000000120056006900650077007300200054006f006f02000001df000002110000018500000122fb000000200054006f006f006c002000500072006f0070006500720074006900650073003203000002880000011d000002210000017afb000000100044006900730070006c00610079007301000000280000025e000000dd00fffffffb0000002000730065006c0065006300740069006f006e00200062007500660066006500720200000138000000aa0000023a00000294fb00000014005700690064006500530074006500720065006f02000000e6000000d2000003ee0000030bfb0000000c004b0069006e0065006300740200000186000001060000030c00000261fb0000000a0049006d0061006700650100000157000000ca0000000000000000fb0000000a0049006d00610067006501000002270000005f0000000000000000000000010000010f0000025efc0200000003fb0000001e0054006f006f006c002000500072006f00700065007200740069006500730100000041000000780000000000000000fb0000000a0056006900650077007301000000280000025e000000b000fffffffb0000001200530065006c0065006300740069006f006e010000025a000000b200000000000000000000000200000490000000a9fc0100000001fb0000000a00560069006500770073030000004e00000080000002e10000019700000003000005150000003efc0100000002fb0000000800540069006d0065010000000000000515000002f600fffffffb0000000800540069006d00650100000000000004500000000000000000000002be0000025e00000004000000040000000800000008fc0000000100000002000000010000000a0054006f006f006c00730100000000ffffffff0000000000000000
+  Selection:
+    collapsed: false
+  Time:
+    collapsed: false
+  Tool Properties:
+    collapsed: false
+  Views:
+    collapsed: false
+  Width: 1301
+  X: 65
+  Y: 24

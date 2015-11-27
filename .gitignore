@@ -13,3 +13,4 @@ yarp_msgs/build
 yarp_msgs/lib
 yarp_msgs/msg_gen
 yarp_msgs/src
+*.*~

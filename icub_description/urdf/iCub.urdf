@@ -66,7 +66,7 @@
       <visual>
       <origin rpy="-1.5708 0 1.5708" xyz="0 -0.05150 0.082"/>
          <geometry>
-            <mesh filename="package://icub_description/meshes/l6.dae"/>
+            <mesh filename="package://icub_description/meshes/l6_.dae"/>
          </geometry>
       </visual>
    </link>
